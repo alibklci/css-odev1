@@ -1,0 +1,40 @@
+/* h styles */
+
+ h2, h4, h5 {
+    font-family: sans-serif;
+
+} 
+
+h2 { color:rgb(109, 20, 20);
+
+}
+
+h3 {
+    display: inline;
+    margin: 5px;
+    color:rgb(107, 21, 21);
+}
+
+h4 {
+    color: brown;
+}
+.article-h {
+    font-size: 40px;
+}
+
+h6 {
+    display: inline;
+    font-size: 20px;
+}
+/* body styles */
+body {
+    text-align: center;
+    list-style-position: inside;
+    background-color: white;
+    font-family: sans-serif;
+}
+
+/* images width */
+img {
+    width: 300px;
+}
